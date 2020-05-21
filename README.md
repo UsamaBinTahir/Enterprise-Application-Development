@@ -18,4 +18,4 @@ This website is compatible with any modern browser (IE, Chrome, MS Edge, Firefox
 # Author:
 Usama Bin Tahir (BSEF17A508)
 # Acknowledgements:
-## Course Instructor: Waqas Riaz
+**Course Instructor:** Waqas Riaz
