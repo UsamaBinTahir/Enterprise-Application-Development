@@ -13,9 +13,9 @@ This is my Enterprise Application Development Project/Assignment. It is a beginn
 # Compatibility:
 This website is compatible with any modern browser (IE, Chrome, MS Edge, Firefox etc.) with V8 javascript engine.
 # Build With:
-Visual Studio 2017
-ASP.NET MVC Framework in C#.NET (Razor Syntax)
+-Visual Studio 2017
+-ASP.NET MVC Framework in C#.NET (Razor Syntax)
 # Author:
-Usama Bin Tahir (Bsef17A508)
+Usama Bin Tahir (BSEF17A508)
 # Acknowledgements:
 Course Instructor: Waqas Riaz
